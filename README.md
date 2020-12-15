@@ -16,5 +16,5 @@ python2 run.py
 ```
 
 ## Contact
-[Facebook](https://www.facebook.com/dulahz)
-[Telegram](https://t.me/unikers)
+[Facebook](https://www.facebook.com/hi
+[Telegram](https://t.me/uniker5s)
